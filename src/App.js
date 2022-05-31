@@ -1,3 +1,9 @@
-export const App = () => {
-  return <div className="App">app</div>;
-};
+import { Noticia } from "./components/Noticia";
+
+export function App() {
+  return (
+    <div className="App">
+      <Noticia />
+    </div>
+  );
+}
