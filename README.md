@@ -1,4 +1,4 @@
-<h1>Tarea 1 Informatorio</h1>
+<h1>Tarea 2 Informatorio</h1>
 
 <h2>Desarrolar una app web con react que contenga los componentes necesarios para representar la plataforma que se visualiza en la imagen. Las especificacion para el escenario son : </h2>
 
